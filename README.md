@@ -1,6 +1,6 @@
 # FirstProjects
 
-Simple projects based on reddit channel https://www.reddit.com/r/dailyprogrammer/
-All things made by me (almost) alone. Exceptions as noted in code.
+Simple projects based on challenges from subreddit https://www.reddit.com/r/dailyprogrammer/
+All apps made by me alone. Exceptions as noted in the code.
 
 dream_tree
