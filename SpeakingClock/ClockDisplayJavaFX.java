@@ -105,7 +105,7 @@ public class ClockDisplayJavaFX extends Application {
             	Thread th = new Thread(r);
             	th.start(); 
             	
-        		group.selectToggle(null);
+        	group.selectToggle(null);
             }
             
             if (selectedToggle == tb3) {    
@@ -119,14 +119,14 @@ public class ClockDisplayJavaFX extends Application {
                 }
                };
             	clock.convert();
-        		displayFirst.setText("Jest godzina " + clock.getHOURS() + " ");
-        		displaySecond.setText(clock.getExtractedTensOFMinutes() == 0 ? clock.getMINUTES() + "." : clock.getTENS_OF_MINUTES()+ " " + clock.getMINUTES() + ".");
-        		displayThird.setText("(" + clock.getActualTimeConverted().substring(0, 8) + ")");
+        	displayFirst.setText("Jest godzina " + clock.getHOURS() + " ");
+        	displaySecond.setText(clock.getExtractedTensOFMinutes() == 0 ? clock.getMINUTES() + "." : clock.getTENS_OF_MINUTES()+ " " + clock.getMINUTES() + ".");
+        	displayThird.setText("(" + clock.getActualTimeConverted().substring(0, 8) + ")");
 
-        		Thread th = new Thread(r);
-        		th.start(); 
+        	Thread th = new Thread(r);
+        	th.start(); 
         		
-        		group.selectToggle(null);
+        	group.selectToggle(null);
             }
         });
 
@@ -168,7 +168,7 @@ public class ClockDisplayJavaFX extends Application {
     }
     
     /**
-     * Java main for when running without JavaFX launcher
+     * Java main (if run without JavaFX launcher).
      */
     public static void main(String[] args) {
         launch(args);
