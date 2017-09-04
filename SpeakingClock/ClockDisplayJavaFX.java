@@ -22,7 +22,6 @@ import javafx.stage.Stage;
  * @author dream_tree
  * This class consists of methods allowing to display the content.
  * Uses JavaFX application framework.
- * Code based on 
  */
 
 public class ClockDisplayJavaFX extends Application {
