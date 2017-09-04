@@ -114,8 +114,7 @@ public class Clock {
 		playAudioFile(pathTensMinutes);
 		Thread.sleep(1400);
 		playAudioFile(pathMinutes);	
-		Thread.sleep(1600);
-		
+		Thread.sleep(1600);		
     }
 			
 	 /**
