@@ -8,4 +8,4 @@ I`ve used JavaFX framework.
 
 There were surely few bugs I didn`t manage to fix yet.
 
-Project #01.
+Project #001.
