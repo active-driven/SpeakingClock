@@ -1,4 +1,4 @@
-# MyOwnFirstProjects
+# SpeakingClock - My Own First Project
 Application obtains the current time from the system clock, 
 converts hours/minutes/seconds into its word-counterparts 
 and displays the result in the window (polish version only).
