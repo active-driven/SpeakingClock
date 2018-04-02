@@ -7,3 +7,5 @@ There are 3 options: displaying the result, listening to the result and combinin
 I`ve used JavaFX framework.
 
 There were surely few bugs I didn`t manage to fix yet.
+
+Project #01.
