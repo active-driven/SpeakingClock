@@ -14,7 +14,7 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 
 /**
  * @author dream_tree
- * This class converts actual system time composed of digits into its word counterparts.
+ * This class converts current system time composed of digits into its word counterparts.
  * Polish language version.
  * String[] used.
  */
